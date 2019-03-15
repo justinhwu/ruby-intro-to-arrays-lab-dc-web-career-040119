@@ -14,3 +14,5 @@ end
 
 def third_element(array)
   return array[3]
+end
+
